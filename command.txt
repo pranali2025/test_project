@@ -1,0 +1,5 @@
+git add filename.txt
+
+git commit filename.txt -m "message"
+
+git status --gives the status of the file.
